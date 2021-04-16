@@ -1,0 +1,16 @@
+body{
+  font-size: 100%;
+  color: #f9680d;
+}
+h1{
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  color: darkolivegreen;
+}
+nav{
+  display: flex;
+}
+nav a{
+  text-decoration: none;
+  
+}
